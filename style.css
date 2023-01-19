@@ -1,0 +1,50 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+body{
+    min-width: 1100px;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    max-width: 1110px;
+    margin: 0 auto;
+}
+.header {
+min-height: 800px;
+background-color: #f9f6f1;
+}
+.section_wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.footer {
+}
+.section.header-menu {
+}
+.section.banner {
+}
+.section.deliveery {
+}
+.section.men-women {
+}
+.section.dress {
+}
+.section.new {
+}
+.gifts {
+}
+.low.price {
+}
+.seti {
+}
+.rule {
+}
+.container {
+}
